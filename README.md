@@ -2,7 +2,7 @@
 
 > This is GitHub Finder application built with Vanilla Javascript.
 
-![screenshot](images/screenshot.png)
+![screenshot](/images/screenshot.png)
 
 This project is application built with Vanilla Javascript. Main goal was to build application that fetch users and their repositories from GitHub API.
 
